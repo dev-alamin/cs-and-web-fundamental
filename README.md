@@ -1280,10 +1280,6 @@ A: Hooks.
 
 ----------
 
-Perfect. This is the **last core group**. Git questions are usually short but decisive.
-
-----------
-
 ## **GROUP 9: Git — Advanced Concepts**
 
 ----------
