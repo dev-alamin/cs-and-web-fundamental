@@ -1,22 +1,22 @@
 # rtCamp Technical Interview Rapid-Fire Cheat Sheet
 
-GROUP 1: Networking & DNS
-
-GROUP 2: Web Server, Nginx & PHP Execution
-
-GROUP 3: Operating System Basics
-
-GROUP 4: Security
-
-GROUP 5: Database, Indexing & Caching
-
-GROUP 6: System Design & Scaling
-
-GROUP 7: JavaScript Core & Advanced
-
-GROUP 8: WordPress Core (Advanced)
-
-GROUP 9: Git (Advanced)
+-   **GROUP 1:** Networking & DNS
+    
+-   **GROUP 2:** Web Server, Nginx & PHP Execution
+    
+-   **GROUP 3:** Operating System Basics
+    
+-   **GROUP 4:** Security
+    
+-   **GROUP 5:** Database, Indexing & Caching
+    
+-   **GROUP 6:** System Design & Scaling
+    
+-   **GROUP 7:** JavaScript Core & Advanced
+    
+-   **GROUP 8:** WordPress Core (Advanced)
+    
+-   **GROUP 9:** Git (Advanced)
 
 ## **GROUP 1: Networking & DNS (Very Common in rtCamp)**
 
